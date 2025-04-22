@@ -1,8 +1,6 @@
-**Log on to codeastro.com for more projects!***
-
 **Database Name: bnkms**
 
-**Developed by Junaid Ashraf**
+**Developed by aman kumar thakur batch no.19, section - Y**
 
 **Recommended PHP Version 5.6 or Newer**
 
