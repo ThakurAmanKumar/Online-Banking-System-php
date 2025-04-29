@@ -70,7 +70,7 @@ An Online Banking System developed using PHP and MySQL, designed to manage custo
      $host = 'localhost';
      $user = 'root';
      $password = '';
-     $database = 'banking_db';
+     $database = 'bnkms';
      ```
 
 6. **Access the Application**:
