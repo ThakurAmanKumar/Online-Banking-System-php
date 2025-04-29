@@ -124,4 +124,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## 📞 Contact
 
-For any queries or support, please contact [Aman Kumar](mailto:thakur.amankumar@example.com).
+For any queries or support, please contact [Aman Kumar Thakur](mailto:er.thakuramankumar@gmail.com
+).
