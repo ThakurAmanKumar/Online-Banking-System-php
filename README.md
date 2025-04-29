@@ -110,9 +110,6 @@ Be aware of known vulnerabilities associated with similar online banking systems
 - **Regular Updates**: Keep all dependencies and libraries up to date.
 - **HTTPS**: Deploy the application over HTTPS to ensure encrypted data transmission.
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
