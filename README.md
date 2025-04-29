@@ -60,8 +60,8 @@ An Online Banking System developed using PHP and MySQL, designed to manage custo
 
 4. **Database Setup**:
    - Open [phpMyAdmin](http://localhost/phpmyadmin/).
-   - Create a new database named `banking_db`.
-   - Import the SQL file located at `DATABASE FILE/banking_db.sql`.
+   - Create a new database named `bnkms`.
+   - Import the SQL file located at `DATABASE FILE/bnkms.sql`.
 
 5. **Configure Database Connection**:
    - Open the `db_connect.php` file.
